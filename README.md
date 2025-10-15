@@ -138,7 +138,7 @@ rule all:
 
 **Sergio Litwiniuk** with AI contribution.
 - Email: sergiolitwiniuk@gmail.com
-- GitHub: [@sergiolitwiniuk](https://github.com/sergiolitwiniuk)
+- GitHub: [@sergiolitwiniuk85](https://github.com/sergiolitwiniuk85)
 
 
 ## License
