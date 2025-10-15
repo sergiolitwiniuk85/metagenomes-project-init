@@ -2,6 +2,9 @@
 
 A Bash utility to create and manage standardized, timestamped project directories for Snakemake-based metagenomic analyses.
 
+![Project_initializer_image](URL_to_your_image)
+
+
 ## Features
 
 - **Automated Project Setup**: Creates standardized directory structure with timestamps
